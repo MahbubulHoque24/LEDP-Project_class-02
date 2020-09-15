@@ -1,0 +1,115 @@
+
+*{
+	margin:0;
+	padding: 0;
+	outline: 0;
+}
+
+body{
+	font-family: arial; font-size: 15px; line-height: 20px; color: #1A0303; background: #A3A8B4;
+}
+
+.clear {
+	overflow: hidden;
+}
+
+.section {
+    margin: 0;
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    overflow: hidden;
+}
+
+
+.box {
+    width: 33.33%;
+    padding: 2px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.images{}
+.images img {
+    width: 354px;
+    height: 225px;
+}
+
+.box1{
+	background: #DF4843;
+	padding: 15px;
+}
+.box1 h2{
+	text-align: center;
+}
+.box1 p{
+	text-align: justify;
+}
+
+.full {
+    background: #8BC226;
+    padding: 15px;
+}
+
+.full p{
+	text-align: center;
+}
+
+.half{
+	width: 50%;
+    padding: 2px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.hbox{
+	background: #0E4375;
+	padding: 15px;
+}
+
+.hbox p{
+	text-align: center;
+}
+
+.lastfrow{
+	width: 70%;
+    padding: 2px;
+    float: left;
+    box-sizing: border-box;
+}
+.lfirstbox{
+	background: #CCA655;
+    padding: 15px;
+}
+
+.lfirstbox p{
+	text-align: center;
+}
+
+.lastlrow{
+	width: 15%;
+    padding: 2px;
+    float: left;
+    box-sizing: border-box;
+}
+.lsecondbox{
+	background: #CCA655;
+    padding: 15px;
+}
+
+.lsecondbox p {
+	text-align: center;-
+}
+
+.sectiontwo {
+	width: 33.33%;
+    padding: 2px;
+    box-sizing: border-box;
+}
+.samebox {
+	float: left;
+}
+.samebox h3 {}
+.samebox p {}
+
